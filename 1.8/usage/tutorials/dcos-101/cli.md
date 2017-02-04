@@ -44,7 +44,7 @@ A description of all components can be found in the [documentation](https://dcos
 * Mesos DNS provides service discovery within the cluster.
 * Minuteman is the internal layer 4 load balancer.
 * Admin Router is an open source NGINX configuration that provides central authentication and proxy to DC/OS services.
-* Universe is the package repository that holds the DC/OS services (e.g., Apache Spark of Apache Cassandra) that you can install on your cluster directly from the DC/OS UI and CLI.
+* Universe is the package repository that holds the DC/OS services (e.g., Apache Spark or Apache Cassandra) that you can install on your cluster directly from the DC/OS UI and CLI.
 
 ## DC/OS Terminology
 Again we will focus on the most important terminology here. More details can be found in the [documentation](https://dcos.io/docs/1.8/overview/architecture/).
